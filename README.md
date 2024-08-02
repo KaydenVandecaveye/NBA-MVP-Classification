@@ -16,9 +16,10 @@ Third, I will train machine learning models, specifically ridge regression and r
 
 Evaluate Model Performance:
 
-Fourth, I will evaluate the models' performance using precision as an initial metric. I will also consider other metrics, such as recall and mean absolute error, to assess both the detection of MVP candidacy and the accuracy of ranking predictions. Analyzing feature importance will also be a part of this evaluation.
+Fourth, I will evaluate the models' performance using precision as an error metric to assess both the detection of MVP candidacy and the accuracy of ranking predictions. Analyzing feature importance will also be a part of this evaluation.
 
 Iterate Over Steps 4 and 5:
 
 Finally, I will iterate over the model training and evaluation steps. This process includes testing accuracy, modifying model parameters, and potentially exploring additional models to improve performance. This iterative process will continue until the model meets a satisfactory level of accuracy and reliability.
+
 Successfully predicting MVP candidacy will provide valuable insights into the key factors that contribute to a player's recognition as an MVP, offering valuable information for teams, analysts, and fans.
