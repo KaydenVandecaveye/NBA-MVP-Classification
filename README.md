@@ -1,3 +1,4 @@
+(Inspired by DataQuest)
 NBA-MVP-Classification Project Description:
 
 The objective of this project is to develop a machine learning model that can predict whether an NBA player will be an MVP candidate and estimate their ranking among MVP candidates based on their performance statistics.
